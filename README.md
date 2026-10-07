@@ -1,7 +1,5 @@
 # Goblino Defense!
 
-#### Video Demo:  <URL HERE>
-
 #### Description:
 ---
 A tower defense game where goblins take the path to reach the other end of the screen to steal meat from you. Use towers (The Archer, The Knight and, The Pawn) to defend your food before they steal all of it! As the game progresses the number of goblins increase. Gain gold from defending during waves to increase the number of your towers to ward them off as long as you can!
